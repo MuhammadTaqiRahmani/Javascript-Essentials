@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Bondi Beach",
+      "category": "beach",
+      "description": "A famous beach in Sydney, Australia.",
+      "image": "project/beach2.png"
+    },
+    {
+      "name": "Golden Temple",
+      "category": "temple",
+      "description": "A spiritual temple in Amritsar, India.",
+      "image": "project/temple.jpg"
+    },
+    {
+      "name": "CN Tower",
+      "category": "Toronto",
+      "description": "A landmark in Toronto, Canada.",
+      "image": "cn-tower.jpg"
+    }
+  ]
+  
