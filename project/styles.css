@@ -7,7 +7,7 @@
 }
 
 .custome-heading{
-    padding-top: 75px;
+    padding-top: 136px;
 }
 
 #custom-color-button{
@@ -64,3 +64,8 @@
   .result-item:hover {
     background-color: #f0f0f0;
   }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  
